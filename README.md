@@ -12,7 +12,7 @@ npm install openai-whisper
 ## Usage
 To transcribe an audio file
 ```js
-const { transcribeAudioFile } = require('./asr');
+const { transcribeAudioFile } = require('openai-whisper');
 
 const filePath = '/path/to/audio/file.mp3';
 
