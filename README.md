@@ -30,4 +30,8 @@ transcribeAudioFile(filePath)
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+<p align="center"><br>
+<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%Fgithu.com%2Famoayomide05%2Fchatgpt-whatsapp-bot&s=80&c=00ff00&bg=00000000&no=5&ff=digi" alt="visits">
+</p>
+
 # Developed by [amosayomide05](https://github.com/amosayomide05)
